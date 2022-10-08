@@ -14,7 +14,7 @@
 - ``Google Fonts``
 
 ## 📁 Project access
-You can access the project files by clicking [aqui](https://github.com/Coastony/dev-Sergio-Bueno)
+You can access the project files by clicking [here](https://github.com/Coastony/dev-Sergio-Bueno)
 
 ## 💡 Credits
 Bedimcode | Responsive Personal Portfolio Website Using HTML CSS And JavaScript | Dark/Light Mode
